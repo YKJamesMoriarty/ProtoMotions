@@ -20,3 +20,5 @@ data/amass/*.pkl
 renders/
 isaacgym/*
 data/smpl/*
+data/amass/*
+data/box/*
