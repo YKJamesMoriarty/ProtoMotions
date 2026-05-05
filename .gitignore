@@ -19,3 +19,4 @@ data/amass/*.pkl
 .cursor/
 renders/
 isaacgym/*
+data/smpl/*
