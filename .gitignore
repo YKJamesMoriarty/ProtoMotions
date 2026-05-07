@@ -23,3 +23,5 @@ data/smpl/*
 data/amass/*
 data/box/*
 data/output/*
+data/acad_debug/*
+data/box_debug_fix/*
